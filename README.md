@@ -1,5 +1,5 @@
 # Hall Of skids
 
-This repository curates a compilation of individuals who have been recognized as "skids" within different online communities.
+This repository curates a compilation of the worst skids available in the market
 
 --
