@@ -1,0 +1,2 @@
+# Skidlist
+Hall of shame
